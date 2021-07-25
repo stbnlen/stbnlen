@@ -17,9 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stbnlen&show_icons=true&locale=en&layout=compact" alt="stbnlen" /></p>
 
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stbnlen&show_icons=true&locale=en" alt="stbnlen" /></p>
+<p style="margin-top: 50px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stbnlen&show_icons=true&locale=en" alt="stbnlen" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stbnlen&" alt="stbnlen" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
