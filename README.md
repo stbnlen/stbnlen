@@ -22,11 +22,12 @@
 <!-- GitHub Stats -->  
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stbnlen&show_icons=true&hide_border=true" /> -->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stbnlen&" alt="stbnlen" /></p>
 <!-- Most Used Languages -->  
+<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stbnlen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stbnlen&" alt="stbnlen" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stbnlen&" alt="stbnlen" /></p> -->
 
