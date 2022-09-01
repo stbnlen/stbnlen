@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sergio</h1>
-<h3 align="center">A passionate frontend developer from Chile I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Proficient in Code Development. Also, interested in the field of Data Science.</h3>
+<h3 align="center">A passionate Data Analist from Chile I am an Undergraduate student pursuing B. Tech degree. Always willing to learn and implement. Proficient in Code Development. Also, interested in the field of Data Science and Machine Learning.</h3>
 
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=stbnlen&label=Profile%20views&color=0e75b6&style=flat" alt="stbnlen" /> </p> -->
