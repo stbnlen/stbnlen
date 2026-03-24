@@ -45,19 +45,13 @@ A passionate Data Analyst from Chile, currently pursuing a B. Tech degree in Dat
 # 🚀 Featured Projects:
 <div align="center">
   <!-- Replace these with your actual projects -->
-  <a href="https://github.com/stbnlen/project1" target="_blank">
+  <a href="https://github.com/stbnlen/xlsx-transform" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=project1&theme=synthwave" alt="Project 1" />
   </a>
-  <a href="https://github.com/stbnlen/project2" target="_blank">
+  <a href="https://github.com/stbnlen/buscalibre-price" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=project2&theme=synthwave" alt="Project 2" />
   </a>
 </div>
-
-# 🙋‍♂️ Currently:
-- 🔭 Working on [current project or research]
-- 🌱 Learning [new skill or technology]
-- 💬 Ask me about [topic you're knowledgeable about]
-- 📫 How to reach me: [your email or LinkedIn]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stbnlen&icon=0&color=0)](https://visitcount.itsvg.in)
