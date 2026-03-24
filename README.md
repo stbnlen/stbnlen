@@ -46,10 +46,10 @@ A passionate Data Analyst from Chile, currently pursuing a B. Tech degree in Dat
 <div align="center">
   <!-- Replace these with your actual projects -->
   <a href="https://github.com/stbnlen/xlsx-transform" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=project1&theme=synthwave" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=xlsx-transform&theme=synthwave" alt="Project 1" />
   </a>
   <a href="https://github.com/stbnlen/buscalibre-price" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=project2&theme=synthwave" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stbnlen&repo=buscalibre-price&theme=synthwave" alt="Project 2" />
   </a>
 </div>
 
